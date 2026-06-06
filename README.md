@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated wave header with text -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=180&section=header&text=Polina%20Galinskaya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=PR%20%2B%20AI%20%7C%2015%2B%20years%20in%20media&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0891B2&height=180&section=header&text=Polina%20Galinskaya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=PR%20%2B%20AI%20%7C%2015%2B%20years%20in%20media&descAlignY=58&descSize=20" width="100%" />
 
 </div>
 
@@ -47,9 +47,9 @@ PR + AI  →  практичные инструменты под задачи к
 
 **PR & Media**
 
-![Media Relations](https://img.shields.io/badge/Медиаотношения-8B5CF6?style=for-the-badge&logo=rss&logoColor=white)
-![Content](https://img.shields.io/badge/Контент_и_СМИ-7C3AED?style=for-the-badge&logo=readthedocs&logoColor=white)
-![Corporate Comms](https://img.shields.io/badge/Корпоративные_коммуникации-6D28D9?style=for-the-badge&logo=mailchimp&logoColor=white)
+![Media Relations](https://img.shields.io/badge/Медиаотношения-0891B2?style=for-the-badge&logo=rss&logoColor=white)
+![Content](https://img.shields.io/badge/Контент_и_СМИ-0E7490?style=for-the-badge&logo=readthedocs&logoColor=white)
+![Corporate Comms](https://img.shields.io/badge/Корпоративные_коммуникации-155E75?style=for-the-badge&logo=mailchimp&logoColor=white)
 
 **AI & Vibe Coding**
 
@@ -79,6 +79,6 @@ PR + AI  →  практичные инструменты под задачи к
 <br/>
 
 <!-- Animated wave footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0891B2&height=100&section=footer" width="100%" />
 
 </div>
