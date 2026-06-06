@@ -27,6 +27,13 @@ PR-специалист с **15+ летним опытом**, работаю в 
 
 Реальная PR-задача, собранная через агентные инструменты — не учебный пример.
 
+<div align="center">
+
+[![Код проекта](https://img.shields.io/badge/Код_проекта-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PollyGal/PR-Newsroom)
+[![Живой дашборд](https://img.shields.io/badge/Живой_дашборд-0891B2?style=for-the-badge&logo=vercel&logoColor=white)](https://dashboard-prnewsroom.vercel.app)
+
+</div>
+
 ---
 
 ## 💡 Чем могу быть полезна
