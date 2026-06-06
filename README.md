@@ -55,8 +55,6 @@ PR + AI  →  практичные инструменты под задачи к
 
 ![Claude](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-B45309?style=for-the-badge&logo=gnubash&logoColor=white)
-![Make](https://img.shields.io/badge/Make.com-6366F1?style=for-the-badge&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 **Аналитика**
 
@@ -71,7 +69,7 @@ PR + AI  →  практичные инструменты под задачи к
 
 ## 📬 Связаться
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PollyGal)
+[![Website](https://img.shields.io/badge/Сайт-0891B2?style=for-the-badge&logo=vercel&logoColor=white)](https://galinskaya-pr-site.vercel.app/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PolinaGalinskaya)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/polinapr/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galinskayap@gmail.com)
