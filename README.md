@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Привет!+Я+Полина+%F0%9F%91%8B;PR-специалист+%7C+15%2B+лет+практики;Осваиваю+AI-агентные+инструменты+%F0%9F%A4%96;PR+%2B+AI+%3D+будущее+коммуникаций+%F0%9F%9A%80" alt="Typing SVG" />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Animated wave header with text -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=180&section=header&text=Polina%20Galinskaya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=PR%20%2B%20AI%20%7C%2015%2B%20years%20in%20media&descAlignY=58&descSize=20" width="100%" />
 
 </div>
 
@@ -56,7 +55,7 @@ PR + AI  →  практичные инструменты под задачи к
 
 ![Claude](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-B45309?style=for-the-badge&logo=gnubash&logoColor=white)
-![Make](https://img.shields.io/badge/Make.com-6366F1?style=for-the-badge&logo=data:image/png;base64,&logoColor=white)
+![Make](https://img.shields.io/badge/Make.com-6366F1?style=for-the-badge&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 **Аналитика**
@@ -79,8 +78,7 @@ PR + AI  →  практичные инструменты под задачи к
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=2000&color=8B5CF6&center=true&vCenter=true&width=650&lines=PR-экспертиза+%2B+AI-инструменты+%3D+смысл+%2B+скорость+%F0%9F%93%88;Гуманитарий%2C+который+не+боится+кода+%F0%9F%9B%A0%EF%B8%8F;Собираю+реальные+инструменты+под+реальные+задачи+%F0%9F%A4%96" alt="Footer typing" />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Animated wave footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" width="100%" />
 
 </div>
